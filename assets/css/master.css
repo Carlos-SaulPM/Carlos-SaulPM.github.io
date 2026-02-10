@@ -23,10 +23,11 @@ header {
   flex-direction: column;
   text-align: center;
   background-color: #caeef2;
-  padding-top: 1rem;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
-header h1 {
+h1 {
   text-transform: uppercase;
 }
 
